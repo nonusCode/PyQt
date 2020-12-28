@@ -26,4 +26,3 @@ from qdarkstyle import *
 # app 바로 밑
 app.setStyleSheet(load_stylesheet())
 ```
-
