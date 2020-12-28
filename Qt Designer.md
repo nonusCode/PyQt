@@ -2,6 +2,12 @@
 
 
 
+### 위치
+
+`\venv\Lib\site-packages\qt5_applications\Qt\bin`
+
+
+
 ### UI 파일 불러오기
 
 ```python

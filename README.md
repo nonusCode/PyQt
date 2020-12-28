@@ -2,17 +2,17 @@
 
 
 
-### 설치
+### Install
 
 ```shell
 $ pip install pyqt5
-# pyside2 설치 시 Qt Desiner 자동 설치
-$ pip install pyside2
+# Qt Desiner
+$ pip install pyqt5-tools
 ```
 
 
 
-### 다크모드
+### Dark Mode
 
 ```shell
 $ pip install qdarkstyle
